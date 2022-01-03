@@ -1,4 +1,4 @@
-### Hello friend <img src="https://github.com/ChenKS12138/ChenKS12138/blob/master/Hi.gif" width="25px">, I'm XiongLY
+### Hello, I'm XiongLY.
 
 ![XiongLY's github stats](https://github-readme-stats.vercel.app/api?username=TLDX-XIONG)
 
